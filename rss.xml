@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Developer]]></title><description><![CDATA[Full stack developer focused on React and React Native development.]]></description><link>https://mattdeveloper.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Sep 2019 22:43:07 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new blog! How exciting! I'm using gatsby to make it. You can check this work on GitHub.]]></description><link>https://mattdeveloper.github.io/hello-world/</link><guid isPermaLink="false">https://mattdeveloper.github.io/hello-world/</guid><pubDate>Thu, 05 Sep 2019 19:31:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog! How exciting! I&apos;m using gatsby to make it. You can check this work on &lt;a href=&quot;https://github.com/mattdeveloper&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matt Developer]]></title><description><![CDATA[Full stack developer focused on React and React Native development.]]></description><link>https://mattdeveloper.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Sep 2019 03:08:33 GMT</lastBuildDate><item><title><![CDATA[Como aprender React em 2019 (draft)]]></title><description><![CDATA[Why draft in this post? Sometimes I don't have time to write, so I start to commit some ideas with the (draft) inside the post. Fala Dev…]]></description><link>https://mattdeveloper.github.io/2019/09/como-aprender-react-em-2019/</link><guid isPermaLink="false">https://mattdeveloper.github.io/2019/09/como-aprender-react-em-2019/</guid><pubDate>Thu, 05 Sep 2019 19:31:00 GMT</pubDate><content:encoded>&lt;p&gt;Why &lt;b&gt;draft&lt;/b&gt; in this post? Sometimes I don&apos;t have time to write, so I start to commit some ideas with the &lt;b&gt;(draft)&lt;/b&gt; inside the post.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Fala Dev! Neste post vou (tentar) citar fontes grátis de como aprender React &lt;s&gt;(tirando a udemy que a gente precisa pagar)&lt;/s&gt;.&lt;/p&gt;
+&lt;h2&gt;Sobre o React&lt;/h2&gt;
+&lt;p&gt;Em 2013 o Facebook lançou o &lt;a href=&quot;https://reactjs.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt;, uma biblioteca UI com estilo rápido e divertido de montar aplicações front-end.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reactjs.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt; é uma das principais bibliotecas JavaScript espalhadas por aí(e olha que existem muitas hein?), e com certeza aprender React irá dar um &quot;increase&quot; gigantesto na sua carreira de Dev.&lt;/p&gt;
+&lt;p&gt;De acordo com a documentação:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Learn Once, Write Anywhere&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aprenda uma vez, escreva em qualquer lugar.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;React can also render on the server using Node and power mobile apps using React Native.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;React pode rodar também no lado servidor usando Node e criar apps mobile usando &lt;a href=&quot;https://facebook.github.io/react-native/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;React Native&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Pré-requisitos&lt;/h2&gt;
+&lt;p&gt;Para aprender algo novo nós temos que ser pacientes, e sabemos que nem sempre o caminho é fácil. Se você tiver conhecimentos sólidos com cada um dos itens abaixo,
+sua jornada com o React será bem mais simples.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;ES6 JavaScript&lt;/li&gt;
+&lt;li&gt;NodeJS + NPM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documentação&lt;/h2&gt;
+&lt;p&gt;Não existe lugar melhor para aprender sobre uma biblioteca do que em sua própria documentação. A &lt;a href=&quot;https://reactjs.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;documentação do React&lt;/a&gt; é ótima. Então use como aprendizado e consulta o tempo todo.&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;p&gt;(draft)&lt;/p&gt;
+&lt;h2&gt;Cursos&lt;/h2&gt;
+&lt;p&gt;(draft)&lt;/p&gt;</content:encoded></item></channel></rss>
