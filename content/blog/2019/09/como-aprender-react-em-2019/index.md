@@ -1,6 +1,6 @@
 ---
 title: Como aprender React em 2019
-date: "2019-13-05T11:23:00.284Z"
+date: "2019-09-12T11:23:00.284Z"
 description: "2019 e você ainda não manja de React? Fala sério Dev! Nesse post vou entrar em alguns detalhes para não deixar passar esse ano sem ser o cara no React."
 # description: "Why draft in this post? Sometimes I don't have time to write, so I start to commit some ideas with the (draft) inside the post."
 ---
