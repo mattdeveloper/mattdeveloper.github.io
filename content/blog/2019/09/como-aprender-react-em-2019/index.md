@@ -45,12 +45,12 @@ Não existe lugar melhor para aprender sobre uma biblioteca do que em sua própr
 
 > O Medium se tornou um lugar para troca de ideias, onde pensadores, criadores e pessoas com histórias para contar encontram seu público, emocionam pessoas e nos incentivam a seguir em frente — Ev Williams
 
-O (Medium)[https://medium.com/] é uma plataforma grátis (com plano pago para postagens premium ilimitadas e leitura offline) ótimo para aprender de tudo, recomendo gastar aquele tempo de Facebook, Instagram e Twitter com o Medium, o App Mobile é ótimo também. A inteligência do Medium é gigantesca, quanto mais você usar mais posts relacionados ao que você gosta irão aparecer na sua timeline.
+O [Medium](https://medium.com/) é uma plataforma grátis (com plano pago para postagens premium ilimitadas e leitura offline) ótimo para aprender de tudo, recomendo gastar aquele tempo de Facebook, Instagram e Twitter com o Medium, o App Mobile é ótimo também. A inteligência do Medium é gigantesca, quanto mais você usar mais posts relacionados ao que você gosta irão aparecer na sua timeline.
 
 ## Cursos
 
-Vou recomendar dois lugares para iniciar os estudos (um deles é pago :/): (Rocketseat)[https://rocketseat.com.br] e (Udemy)[https://www.udemy.com/].
+Vou recomendar dois lugares para iniciar os estudos (um deles é pago :/): [Rocketseat](https://rocketseat.com.br) e [Udemy](https://www.udemy.com/).
 
-A Rocketseat é grátis, para iniciantes é ótima. Recomendo seguir no (YouTube)[https://www.youtube.com/rocketseat], (Instagram)[https://www.instagram.com/rocketseat_oficial/], (Twitter)[https://twitter.com/rocketseat] e (Facebook)[https://www.facebook.com/rocketseat], tem muito conteúdo bacana por lá.
+A Rocketseat é grátis, para iniciantes é ótima. Recomendo seguir no [YouTube](https://www.youtube.com/rocketseat), [Instagram](https://www.instagram.com/rocketseat_oficial/), [Twitter](https://twitter.com/rocketseat) e [Facebook](https://www.facebook.com/rocketseat), tem muito conteúdo bacana por lá.
 
-A Udemy é paga, a maior plataforma de cursos do mundo e vira e mexe tem promoção e sai por R$ 19,90 os cursos, então recomendo ficar acompanhando. Na hora de escolher o curso que você irá comprar, recomendo olhar as avaliações, quantidade de alunos inscritos e comentários.
+A Udemy é paga, a maior plataforma de cursos do mundo e vira e mexe tem promoção e sai por R\$ 19,90 os cursos, então recomendo ficar acompanhando. Na hora de escolher o curso que você irá comprar, recomendo olhar as avaliações, quantidade de alunos inscritos e comentários.
