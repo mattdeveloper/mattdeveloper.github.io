@@ -62,7 +62,7 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-        <footer>© {new Date().getFullYear()} - Built by me ;)</footer>
+        <footer>© 2019-{new Date().getFullYear()} Built by me ;)</footer>
       </div>
     )
   }

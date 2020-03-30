@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://mattdeveloper.github.io`,
   },
   plugins: [
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -21,24 +22,37 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `code`,
+        path: `${__dirname}/content`,
+      },
+    },
+    {
+      resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          // {
+          //   resolve: "gatsby-remark-images",
+          //   options: {
+          //     maxWidth: 590,
+          //   },
+          // },
+          // "gatsby-remark-copy-linked-files",
+          // "gatsby-remark-responsive-iframe",
           {
-            resolve: `gatsby-remark-images`,
+            resolve: "gatsby-remark-prismjs",
             options: {
-              maxWidth: 590,
+              classPrefix: "language-",
             },
           },
           {
-            resolve: `gatsby-remark-responsive-iframe`,
+            resolve: "gatsby-remark-external-links",
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
+              target: "_blank",
+              rel: "nofollow",
             },
           },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
         ],
       },
     },
@@ -63,20 +77,6 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-external-links",
-            options: {
-              target: "_blank",
-              rel: "nofollow",
-            },
-          },
-        ],
       },
     },
     {

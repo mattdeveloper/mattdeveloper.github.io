@@ -55,7 +55,8 @@ const Bio = () => {
         RJ - Brazil building useful things.
         {` `}
         You should follow me on{" "}
-        <a href={`https://twitter.com/_mattdeveloper`}>Twitter</a> and{" "}
+        <a href={`https://www.instagram.com/matt.oliverdev/`} target="_blank">Instagram</a>
+        , <a href={`https://twitter.com/_mattdeveloper`} target="_blank">Twitter</a> and{" "}
         <a href={`https://github.com/mattdeveloper`} target="_blank">
           GitHub
         </a>
